@@ -1,0 +1,7 @@
+.vscode
+CMakeFiles
+*.cmake
+CMakeCache.txt
+run
+*.pyc
+Makefile
